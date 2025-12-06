@@ -9,14 +9,7 @@ A hands-on repository for learning and practicing **Spring Boot, REST APIs, data
 
 ## 📌 Overview
 This project documents my journey of learning **Spring Boot** by building real-world features step-by-step.  
-It includes implementation of **RESTful APIs, authentication, database integration, Docker setup, and deployment fundamentals**.
-
----
-
-## 🚀 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,c,cpp,java,python,js,html,css,react,nodejs,express,spring,hibernate,maven,mysql,postgres,mongodb,sqlite" />
-</p>
+It includes implementation of **RESTful APIs, authentication, database integration, Docker setup**.
 
 ---
 
@@ -45,6 +38,7 @@ mvn clean install
 
 # Run the application
 mvn spring-boot:run
+
 
 
 
